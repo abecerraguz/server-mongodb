@@ -4,7 +4,7 @@ POST http://localhost:5000/api/jokes/new
 Content-Type: application/json
 
 {
-    "setup": "Broma 6",
+    "setup": "Broma 10",
     "punchline": "más chistosa"
 }
 
